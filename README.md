@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**agolyud/agolyud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">My name is Aleksey Golyudov</h3>
 
-Here are some ideas to get you started:
+<h2 align="left">Programming languages:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<h2 align="left">My stack:</h2>
+<h4 align="left">
+• Clean Architecture, SOLID, KISS, DRY <br>
+• MVVM, MVI, MVP, Android SDK, Retrofit, Coroutines, Kotlin Flow, RxJava (basics), REST API, SQLite, Room, Koin, Hilt, Jetpack Navigation Component, Git, Github Actions, Gradle, CI/CD  <br>
+• Instruments: Android Studio, IntelliJ IDEA, GitHub, Gitlab, Firebase, Google Cloud Console, Figma <br>
+  </h4>
+
+<h2 align="left"> 📫How to reach me:</h2>
+
+###
+
+&#9993; https://www.linkedin.com/in/aleksey-golyudov/ <br>💬 https://t.me/alexgolyd
+
+###
