@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="left">My name is Aleksey Golyudov</h3>
+<h3 align="left">My name is Aleksey</h3>
 
 <h2 align="left">Programming languages:</h2>
 
