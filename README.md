@@ -17,8 +17,8 @@ A Mobile Engineer from Russia. I love building applications & discussing new pro
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=agolyud&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agolyud&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
+<img align="left" src="https://github-readme-stats-gilt-six-92.vercel.app/api?username=agolyud&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://github-readme-stats-gilt-six-92.vercel.app/api/top-langs/?username=agolyud&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
 
 
 <h2 align="center">My stack:</h2>
